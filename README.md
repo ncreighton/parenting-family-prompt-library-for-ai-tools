@@ -1,2 +1,25 @@
-# parenting-family-prompt-library-for-ai-tools
-200+ tested prompts for ChatGPT, Claude, and Gemini optimized for Parenting &amp; Family tasks. Save hours researching the right prompts.
+# Parenting & Family Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU3cvh1B7Eo4pq5bud0r10)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU3cvh1B7Eo4pq5bud0r10)
+
